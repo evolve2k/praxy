@@ -1,10 +1,12 @@
 ---
+title:
 layout: default
 ---
 
-<div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">A capstone project</h1>
+
+<!-- <div class="home">
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -12,7 +14,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+          <a class="post-link" href="{{ post.url }}">{{ post.title | escape }}</a>
         </h2>
       </li>
     {% endfor %}
@@ -20,4 +22,7 @@ layout: default
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-</div>
+</div> -->
+
+{% include post-list.html %}
+{% include footer.html %}
