@@ -3,7 +3,7 @@ title: Early Attempts - Do multi faceted animations work?
 date: '2016-10-09 09:20:00'
 layout: post
 ---
-This was the first week we really kicked into the project. Liam printed out a starter template that reminds me of a pizza cut into 12 segments and we set to experimenting with basic hand drawn animation. Makes you appreciate how good the disney hand illustartors were at this stuff.
+This was the first week we really kicked into the project. Liam created out a starter template that reminds me of a pizza cut into 12 segments and we set to experimenting with basic hand drawn animation. It makes you appreciate how good the Disney hand illustators were at this.
 
 ![]({{ site.baseurl }}/forestryio/images/old mickey miney dance.gif)
 
@@ -15,8 +15,9 @@ I've tested this with some friendly lizzards, the idea being that the body just 
 
 ![]({{ site.baseurl }}/forestryio/images/8Oct-3.gif)
 
-I've also realised how hard it is to get a nice hand drawn walk cycle (aka Disney above). That's something Im going to continue to practice with.
+I've also realised how hard it is to get a nice hand drawn walk cycle (aka Disney above). That's something I'm going to continue to practice with.
 
+*Ps. Im still working out a nice workflow so that I can take videos and quickly generate animated gifs that I can drop in here without people having to press play. The player I used this week flipped the video up-side-down and added a watermark. When I find a better option I'll come back and redo this video.*
 
 
 
