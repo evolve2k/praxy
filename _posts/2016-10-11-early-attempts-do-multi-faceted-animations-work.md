@@ -3,6 +3,8 @@ title: Early Attempts - Do multi faceted animations work?
 date: '2016-10-09 09:20:00'
 layout: post
 ---
+> by Richie
+
 This was the first week we really kicked into the project. Liam created out a starter template that reminds me of a pizza cut into 12 segments and we set to experimenting with basic hand drawn animation. It makes you appreciate how good the Disney hand illustators were at this.
 
 ![]({{ site.baseurl }}/forestryio/images/old mickey miney dance.gif)
