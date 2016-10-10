@@ -1,13 +1,10 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about/"
 ---
+Our lives are increasing bound into a digital realm and it can be great to be connected and, you know, have something to do even when your stuck waiting for things to happen. But a few of us are starting to consider that maybe we've lost something along the way; the space between. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This project explores spaces between, between digital and analogue, between us and technology and between the machine and the natural and a few other between spaces you'll need to try and discover yourself. 
 
-You can find the source code for the Jekyll new theme at:
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Please join us on this journey in exploring the space between the one and the zero.
