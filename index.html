@@ -1,28 +1,6 @@
 ---
-title:
+title: ''
 layout: default
 ---
-
-
-  <h1 class="page-heading">{{ site.title }}</h1>
-
-<!-- <div class="home">
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div> -->
-
-{% include post-list.html %}
-{% include footer.html %}
+<h1 class="page-heading">{{ site.title }}</h1><p><em>This project explores spaces between;&nbsp;between digital and analogue, between us and technology and between the machine and the natural and a few other between other spaces we want you to discover yourself.</em></p>
+<p>{% include post-list.html %}{% include footer.html %}</p>
