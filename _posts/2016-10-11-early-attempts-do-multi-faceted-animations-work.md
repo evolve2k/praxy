@@ -17,7 +17,7 @@ I've tested this with some friendly lizzards, the idea being that the body just 
 
 I've also realised how hard it is to get a nice hand drawn walk cycle (aka Disney above). That's something I'm going to continue to practice with.
 
-*Ps. Im still working out a nice workflow so that I can take videos and quickly generate animated gifs that I can drop in here without people having to press play. The player I used this week flipped the video up-side-down and added a watermark. When I find a better option I'll come back and redo this video.*
+*Ps. Im still working out a nice workflow so that I can take videos and quickly generate animated gifs that I can drop in here without people having to press play. The gif creator that I used this week incorrectly flipped the video up-side-down and added a watermark. When I find a better option I'll come back and redo this video.*
 
 
 
