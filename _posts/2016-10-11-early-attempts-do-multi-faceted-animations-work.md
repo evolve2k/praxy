@@ -15,7 +15,7 @@ My biggest progression this week was considering how multiple frames are viewabl
 
 I've tested this with some friendly lizzards, the idea being that the body just rotates around the page and it's the legs that animate within a single frame. All up I'm happy with the effect. 
 
-![]({{ site.baseurl }}/forestryio/images/8Oct-3.gif)
+![]({{ site.baseurl }}/forestryio/images/8Oct-3-1.gif)
 YES multifacted animations can work.
 
 I've also been reminded of how hard it is to get a nice hand drawn walk cycle (aka Disney above). That's something I'm going to continue to practice with.
