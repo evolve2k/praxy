@@ -1,6 +1,6 @@
 ---
 title: Struggling with Technology
-date: '2016-10-18 11:56:00'
+date: '2016-10-18 00:00:00'
 layout: page
 ---
 Creating hand-drawn animations is hard.
