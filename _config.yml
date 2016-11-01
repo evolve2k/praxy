@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Space Between One and Zero
+name: The Space Between the One and Zero
+title: Space 1&amp;0
 email: your-email@thespacebetweenoneandzero.com
 description: > # this means to ignore newlines until "baseurl:"
   This project explores spaces between; between digital and analogue, between us and the machine.
