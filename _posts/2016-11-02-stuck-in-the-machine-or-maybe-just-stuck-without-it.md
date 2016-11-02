@@ -11,7 +11,7 @@ Today's theme is "Stuck in the machine".
 
 Here the smart phone provided a consistent visual image, the concept questioning are we trapped using our phones, are they now something we can never get away from?
 
-![](/forestryio/images/Stuck%20in%20the%20Machine.gif)
+![](forestryio/images/Stuck%20in%20the%20Machine.gif)
 
 It's hard creating new animations knowing that they just won't come out looking polished. [Creating hand animations is just hard.](http://oneandzero.space/2016/10/18/creating-hand-drawn-animations-is-hard.html)
 
