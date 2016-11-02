@@ -1,5 +1,5 @@
 ---
-title: Stuck (when I'm not on or) in the machine
+title: Stuck working without the machine
 date: '2016-11-02 12:03:00'
 layout: ''
 ---
