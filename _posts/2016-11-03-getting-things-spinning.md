@@ -28,8 +28,9 @@ How to Make a Praxinoscope and Praxinoscope Discs Using a Repurposed Record Turn
 
 We obtained turntables and initially crafted our mirrored prisms using reflective cardboard which was available for only a few dollars at OfficeWorks (a big box stationery store).
 
+![](/forestryio/images/IMG_3361.jpg)
 
-
+![](/forestryio/images/IMG_3368.jpg)
 
 Self constructed mirrored prism cut made from reflective cardboard.
 
