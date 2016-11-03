@@ -1,6 +1,6 @@
 ---
 title: Stuck working without the machine
-date: '2016-11-02 12:03:00'
+date: '2016-11-02 00:00:00'
 layout: post
 ---
 This week I continue to work with my hands and hand illustrate my animations.
