@@ -1,6 +1,6 @@
 ---
 title: Creating hand-drawn animations is hard
-date: '2016-10-18 12:24:00'
+date: '2016-10-18 00:00:00'
 layout: post
 ---
 > by Richie
