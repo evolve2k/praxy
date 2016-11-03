@@ -47,15 +47,17 @@ Having created working spinning praxinoscopes (praxys) and having agreed that we
 
 Creating evocative works proved difficult and harder than originally expected.
 
-
 To start with progress was slow and we found it incredibly difficult to conceptualise an idea, work out if we had the skills to hand draw the piece and then go about the task of creating the related 12 frame animation on each frame on our record shaped animation template.
-
 
 During this phase I worked on enhancing my skills at creating hand drawn works and also on achieving a smooth animation effect. I also took a different approach to each animated work I produced, testing different styles. 
 
-
 My initial focus was on creating functioning animations rather than focussing on developing works aligned with the narrative and work towards our first priority of determining approaches to create believable motion.
 
+![](/forestryio/images/IMG_3637.jpg)
+
+![](/forestryio/images/IMG_3733.jpg)
+
+![](/forestryio/images/salamander-loop-praxinoscope.gif)
 
 This animation experimented with the fact that viewers can see more than one frame a time and also featured my preliminary colour palette.
 
