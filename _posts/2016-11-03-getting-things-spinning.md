@@ -24,7 +24,7 @@ Ruth Hayes and her website Random Motion were major inspirations for this projec
 Along side many great articles on motion, we utilised Hayes (2012) article 
 How to Make a Praxinoscope and Praxinoscope Discs Using a Repurposed Record Turntable (http://www.randommotion.com/html/prax2.html) as a starting point towards creating praxinoscopes of our own.
 
-![](forestryio/images/Instructions_How_to_Make_a_Praxinoscope_Using_a_Repurposed_Record_Turntable_by_Ruth_Hayes.jpg)
+![](/forestryio/images/Instructions_How_to_Make_a_Praxinoscope_Using_a_Repurposed_Record_Turntable_by_Ruth_Hayes.jpg)
 
 We obtained turntables and initially crafted our mirrored prisms using reflective cardboard which was available for only a few dollars at OfficeWorks (a big box stationery store).
 
