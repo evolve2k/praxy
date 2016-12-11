@@ -70,3 +70,34 @@ Lightining of the work was always going to be important. From standard testing w
 We experimented with building internal LED lights into each record player towards creating a self contained, self lit device. Standard LED's worked effectively, but experimentation with Black UV lights yielded results that really started to achieve an effective neon aesthetic.
 
 These experiments revealed that it was especially hard to have these small lights stay exactly where we wanted them and also, with Liam having one arm down, was going to take us a long time to wire up. In the end we opted for exploring external lighting options and we also ordered a Black UV light in the hope it would arrive before the exhibit (it did!).
+
+When the final exhibit came together we utilised a spotlight to effectivley light the center stage of our exhibit and relied upon LED strip lightining to light other assets. The combination of the Black UV light as well as the UV Gell over the large downlight in the space worked together effectivley to add to the neon ambiance of the space.
+
+## Experimentation & Testing
+
+The project went through continous phases of experimentation and testing and in many ways was defined by our lean approach to development and experimentation. After Liam's accident, and following a shock of stress on what we would do, we developed the idea of the "Minimum Viable Exhibit" and defined what was the core minimal activities we needed to resolve to make the exhibit work. This kept us highly focussed on what was most important. We knew then that if we got to an effective minimum as quickly as we could, we could get feedback earlier and also have the most time possible to add polish & refinement after.
+
+At each stage, faced with unknows, we asked what was the simplist way we could undertake a test and resolve problems as early as possibly. Sometimes this involved pretending to put up curtains before we did by asking a lecturer to stand on a ladder and 'hold them up', across to printing out our designs on white paper before committing the designs to our good card so we might quickly identify any issues with the design before using up our costly resources.
+
+Another effective technique was to setup a single praxinoscope on a plynth next to our computers and to regularly print our animations onto record templates and test them live. Resolving a template in InDesign that made it easy to update the frames by updating links in the document, helped streamline our workflow and further led to us getting towards effective animations as quickly as was possible.
+
+# Considering our process
+
+## Production
+
+The production of the praxinoscopes was highly complex and involved many stages. By sticking to our timeline with a focus on major milestones we were able to abstract many of these small stages of experimentation and production into significant chunks of focus and development. Right up to Liam's accident we kept the project on track with our timeline, with Liam off base for around a fortnight we lost some of the momentum we were building before the accident. Without effective buffers and conservative estimates in our timeline we could have been very far off from delivering a finished result come exhibition day. One area that became a time sink was the refinement of our animations onto the praxinoscopes. 
+
+## Feedback
+
+We were proactive in obtaining feedback on the project, leveraging the expertise of Darren, David and James primarily. 
+Although we had a mix of feeback from each lectuerer by and large we settled into a feedback cycle whereby generally we recevied graphic design feedback from Darren, feedback on our animations from James, and feedback and support on production approaches from David. Liam and I were generally in at uni most of the time, and pretty much daily we receieived and sought feedback from one lectuerer or another on most days we were in. It helped that our project was delivered on a unique medium and was multifaceted in it's scope and approach and as a result we received much feedback from the lecturers often with us all contemplating solutions to problems for which non of us had previous specific experience resolving.
+
+
+
+
+
+
+
+
+
+
