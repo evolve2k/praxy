@@ -7,9 +7,11 @@ As we continued to refine our animations it became increasingly clear that we ne
 
 It took a while to agree on the Aesthetic but finally we agreed on an 80's neon style and this tied in well with a futuristic technology driven aesthetic we were aiming for.
 
-![{{ site.baseurl }}/forestryio/images/80-neon-demon-1.jpeg](/forestryio/images/80-neon-demon-1.jpeg)
+![{{ site.baseurl }}/forestryio/images/80neon2.jpg]({{ site.baseurl }}/forestryio/images/80neon2.jpg)
 
-We had agreed that we wanted to use a black background for our animations. After a weekend of research we found that Posca pens would ink well onto black card and had a high opacity so that the colour stood out clearly on the black card.
+ <span style="letter-spacing: 0.01em;"></span> 
+
+<span style="letter-spacing: 0.01em;">We had agreed that we wanted to use a black background for our animations. After a weekend of research we found that Posca pens would ink well onto black card and had a high opacity so that the colour stood out clearly on the black card.</span>  
 
 ![{{ site.baseurl }}/forestryio/images/IMG_4363-3.jpg](/forestryio/images/IMG_4363-3.jpg)
 
@@ -90,3 +92,7 @@ The production of the Praxinoscopes was highly complex and involved many stages.
 ## Feedback
 
 We were proactive in obtaining feedback on the project, leveraging the expertise of Darren, David and James primarily. Although we had a mix of feedback from each lecturer by and large we settled into a feedback cycle whereby generally we received graphic design feedback from Darren, feedback on our animations from James, and feedback and support on production approaches from David. Liam and I were generally in at uni most of the time, and pretty much daily we received and sought feedback from one lecturer or another on most days we were in. It helped that our project was delivered on a unique medium and was multifaceted in it's scope and approach and as a result we received much feedback from the lecturers often with us all contemplating solutions to problems for which non of us had previous specific experience resolving.
+
+## Conclusions
+
+This project has been multi-faceted and included many
