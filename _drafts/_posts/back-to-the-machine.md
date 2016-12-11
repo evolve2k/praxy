@@ -13,6 +13,6 @@ While exploring and trying to create these visuals we have stumbled cross what s
 
 I doing this and after playing around I have developed a process that works well for me. This is to do a hand illustration of the frames from the images and the recreate these in illustrator. I then take the basic shape and put that in to Cinema 4D and move it around as I wish. This allows me to see the object from different angles and perspectives, something I struggled with while hand drawing. I then apply the these angles to my illustrator drawing to produce my 12 frames of animation.
 
-(Video)
+<span style="letter-spacing: 0.01em;">This process is fun and interesting and the opposite of how we had intended to work. I think this is a good part of this project however, and we are exploring our own relationship with technology and when we do and don't need it.</span>
 
-This process is fun and interesting and the opposite of how we had intended to work. I think this is a good part of this project however, and we are exploring our own relationship with technology and when we do and don't need it.
+![{{ site.baseurl }}/forestryio/images/IMG_6897.JPG]({{ site.baseurl }}/forestryio/images/IMG_6897.JPG)
