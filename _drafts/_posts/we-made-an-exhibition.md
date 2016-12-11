@@ -31,7 +31,7 @@ Experiments were made printing an inner core to the 3D printer but in the end ef
 
 ![{{ site.baseurl }}/forestryio/images/laser%20cutter-7.gif]({{ site.baseurl }}/forestryio/images/laser%20cutter-7.gif)
 
-The other thing we tested was sticking everything together with a hot glue gun. This turned out to be surprisingly effective and more stable than expected.
+The other thing we tested was sticking everything together with a hot glue gun. This turned out to be surprisingly effective and stronger than expected.
 
 ![{{ site.baseurl }}/forestryio/images/hot%20glue%20gun.gif]({{ site.baseurl }}/forestryio/images/hot%20glue%20gun.gif)
 
@@ -60,3 +60,13 @@ An endless stack of servers was an early test for me and followed on with my suc
 <span style="letter-spacing: 0.01em;" class="">My opportunity came when developing "Voting Machine" a voting machine that was also a pokie machine.</span>
 
 <span style="letter-spacing: 0.01em;" class="">Initially I constructed a full US style voting machine and booth. </span>
+
+But refining down I simplified the concept down to the machine & its handle and then just down to the frames themselves.
+
+## Lighting
+
+Lightining of the work was always going to be important. From standard testing we found that the combination of glossy paper and the reflection from bright overhead lights, together reduced the legibility of the works.
+
+We experimented with building internal LED lights into each record player towards creating a self contained, self lit device. Standard LED's worked effectively, but experimentation with Black UV lights yielded results that really started to achieve an effective neon aesthetic.
+
+These experiments revealed that it was especially hard to have these small lights stay exactly where we wanted them and also, with Liam having one arm down, was going to take us a long time to wire up. In the end we opted for exploring external lighting options and we also ordered a Black UV light in the hope it would arrive before the exhibit (it did!).
