@@ -41,4 +41,28 @@ With a bit of careful gluing and some tape, we managed to pull the Praxinoscope 
 
 We were very happy with the final result.
 
-And the improvement from using the newly refined carousels was significant.
+![{{ site.baseurl }}/forestryio/images/new%20carousel-2.gif]({{ site.baseurl }}/forestryio/images/new%20carousel-2.gif)
+
+## 3D Rendered Assets
+
+As we progressed we started to find that the hand animations were both taking a lot of time and also we were not able to generate smooth animations without hours and hours of trial and error.
+
+Following experiments with cinema 4D we came across a working process of creating our animations as 3D assets and then placing rendered frames onto record templates.
+
+An endless stack of servers was an early test for me and followed on with my success with the bitcoin animation.
+
+<span style="letter-spacing: 0.01em;" class="">The trick with this animation is that I was able to use all the frames to just move from one corner of the building the the very next corner and then repeat. The animation however gives the illusion that it it's slowly rotating around all 4 sides of the building. This created an animation that seemed to run slower than other animations I had created. We were gradually uncovering and exploring the finer points of the illusion of motion that frame animation provides.</span>
+
+<span style="letter-spacing: 0.01em;" class="">## Multi frame animation</span>
+
+<span style="letter-spacing: 0.01em;" class="">One thing I noticed as we practiced animating on the praxinoscopes was the interesting effect of how you could see multiple frames at a time. I wondered if it might be possibly to create animations that told a story across a few frames. </span>
+
+<span style="letter-spacing: 0.01em;" class=""></span>
+
+<span style="letter-spacing: 0.01em;" class=""></span>
+
+<span style="letter-spacing: 0.01em;" class="">My opportunity came when developing "Voting Machine" a voting machine that was also a pokie machine.</span>
+
+<span style="letter-spacing: 0.01em;" class="">Initially I constructed a full US style voting machine and booth.</span>
+
+ <span style="letter-spacing: 0.01em;" class=""></span>
