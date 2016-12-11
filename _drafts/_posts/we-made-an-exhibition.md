@@ -65,4 +65,6 @@ An endless stack of servers was an early test for me and followed on with my suc
 
 <span style="letter-spacing: 0.01em;" class="">Initially I constructed a full US style voting machine and booth.</span>
 
- <span style="letter-spacing: 0.01em;" class=""></span>
+ <span style="letter-spacing: 0.01em;" class=""></span> 
+
+<span style="letter-spacing: 0.01em;" class=""></span>
