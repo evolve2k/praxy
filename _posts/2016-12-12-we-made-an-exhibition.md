@@ -7,7 +7,7 @@ As we continued to refine our animations it became increasingly clear that we ne
 
 It took a while to agree on the Aesthetic but finally we agreed on an 80's neon style and this tied in well with a futuristic technology driven aesthetic we were aiming for.
 
-![{{ site.baseurl }}/forestryio/images/80neon2.jpg]({{ site.baseurl }}/forestryio/images/80neon2.jpg)
+![{{ site.baseurl }}/forestryio/images/80neon2.jpg](/forestryio/images/80neon2.jpg)
 
  <span style="letter-spacing: 0.01em;"></span> 
 
