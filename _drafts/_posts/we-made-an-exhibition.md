@@ -57,16 +57,6 @@ An endless stack of servers was an early test for me and followed on with my suc
 
 <span style="letter-spacing: 0.01em;" class="">One thing I noticed as we practiced animating on the praxinoscopes was the interesting effect of how you could see multiple frames at a time. I wondered if it might be possibly to create animations that told a story across a few frames. </span>
 
-<span style="letter-spacing: 0.01em;" class=""></span>
-
-<span style="letter-spacing: 0.01em;" class=""></span>
-
 <span style="letter-spacing: 0.01em;" class="">My opportunity came when developing "Voting Machine" a voting machine that was also a pokie machine.</span>
 
-<span style="letter-spacing: 0.01em;" class="">Initially I constructed a full US style voting machine and booth.</span>
-
- <span style="letter-spacing: 0.01em;" class=""></span> 
-{:.medium-editor-dragover}
-
- <span style="letter-spacing: 0.01em;" class=""></span> 
-{:.medium-editor-dragover}
+<span style="letter-spacing: 0.01em;" class="">Initially I constructed a full US style voting machine and booth. </span>
