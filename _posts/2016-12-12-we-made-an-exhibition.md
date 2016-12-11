@@ -95,4 +95,4 @@ We were proactive in obtaining feedback on the project, leveraging the expertise
 
 ## Conclusions
 
-This project has been multi-faceted and included many
+This project has been multi-faceted and included many unique design considerations and challenges. In the end I am very happy with the work we have produced.
