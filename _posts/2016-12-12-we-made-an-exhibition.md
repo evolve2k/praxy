@@ -55,7 +55,7 @@ An endless stack of servers was an early test for me and followed on with my suc
 
 <span style="letter-spacing: 0.01em;" class="">The trick with this animation is that I was able to use all the frames to just move from one corner of the building the the very next corner and then repeat. The animation however gives the illusion that it it's slowly rotating around all 4 sides of the building. This created an animation that seemed to run slower than other animations I had created. We were gradually uncovering and exploring the finer points of the illusion of motion that frame animation provides.</span>
 
-<span style="letter-spacing: 0.01em;" class="">## Multi frame animation</span>
+## Multi frame animation
 
 <span style="letter-spacing: 0.01em;" class="">One thing I noticed as we practiced animating on the Praxinoscopes was the interesting effect of how you could see multiple frames at a time. I wondered if it might be possibly to create animations that told a story across a few frames. </span>
 
