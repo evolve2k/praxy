@@ -20,8 +20,8 @@ We have resolved issues by working on a number of fronts, specifically resolving
 
 ### Getting started
 
-Ruth Hayes and her website Random Motion were major inspirations for this project. 
-Along side many great articles on motion, we utilised Hayes (2012) article 
+Ruth Hayes and her website Random Motion were major inspirations for this project.
+Along side many great articles on motion, we utilised Hayes (2012) article
 How to Make a Praxinoscope and Praxinoscope Discs Using a Repurposed Record Turntable (http://www.randommotion.com/html/prax2.html) as a starting point towards creating praxinoscopes of our own.
 
 ![](/forestryio/images/Instructions_How_to_Make_a_Praxinoscope_Using_a_Repurposed_Record_Turntable_by_Ruth_Hayes.jpg)
@@ -49,7 +49,7 @@ Creating evocative works proved difficult and harder than originally expected.
 
 To start with progress was slow and we found it incredibly difficult to conceptualise an idea, work out if we had the skills to hand draw the piece and then go about the task of creating the related 12 frame animation on each frame on our record shaped animation template.
 
-During this phase I worked on enhancing my skills at creating hand drawn works and also on achieving a smooth animation effect. I also took a different approach to each animated work I produced, testing different styles. 
+During this phase I worked on enhancing my skills at creating hand drawn works and also on achieving a smooth animation effect. I also took a different approach to each animated work I produced, testing different styles.
 
 My initial focus was on creating functioning animations rather than focussing on developing works aligned with the narrative and work towards our first priority of determining approaches to create believable motion.
 
@@ -67,14 +67,14 @@ This animation experimented with the fact that viewers can see more than one fra
 We continued to practice creating animations and this was good to continue to refine our understanding,but as we approached greater confidence in how to make these animations at the same time the lack of having an agreed effective style became increasingly an issue.
 
 
-With a unique medium and coupled conceptually focus the importance of determining a style that 
+With a unique medium and coupled conceptually focus the importance of determining a style that
 We both agreed would work effectively.
 Which reflected well the conceptual focus of the works.
 Was visually attractive.
 Reflected our project values of working on and specifically away from the computer.
 
 
-After initial experimentation to prove that praxinoscopes could be an effective medium for animation, we entered a dark patch where ideas didn’t seem to flow and our works felt below our expectations. People asked us, ‘yes but how will the finished works look?’. We had some ideas of what we were hoping to see but in reality we did not yet know. 
+After initial experimentation to prove that praxinoscopes could be an effective medium for animation, we entered a dark patch where ideas didn’t seem to flow and our works felt below our expectations. People asked us, ‘yes but how will the finished works look?’. We had some ideas of what we were hoping to see but in reality we did not yet know.
 
 
 Our initial explorations came about from questioning 'which design periods were concerned with questioning the future and technology', surprisingly on reflection there have been many periods concerned with questions of technology and the future.
@@ -83,10 +83,10 @@ Our initial explorations came about from questioning 'which design periods were 
 We researched and explored many styles and approaches both digital in nature and non-digital. Styles that we explored in further detail included, Futurism, Space Age, Japanese Anime and 1980’s neon digital. Styles we reviewed for aesthetic appeal, ability for us to leverage and interpret and connection to the project theme.
 
 
-Having agreed to a 1980's neon digital aesthetic we shortly after realized still how wide this genre was especially when we include the scope of contemporary interpretations of this period. 
+Having agreed to a 1980's neon digital aesthetic we shortly after realized still how wide this genre was especially when we include the scope of contemporary interpretations of this period.
 
 
-We want our work not to date as a period piece but rather be a contemporary work drawing from this earlier era for inspiration. 
+We want our work not to date as a period piece but rather be a contemporary work drawing from this earlier era for inspiration.
 Easing the conceptual progress
 
 
@@ -117,7 +117,7 @@ A personal objective has also been to document our progress, I think I have well
 
 The blog although containing a number of draft posts and various placeholder information could do with more work, but I’ll work on that as a secondary consideration. Im convinced now that effective documentation as a project progresses is possibly and highly valuable but it does require additional allocation of resources to firstly consistently collect useful images and artifacts as the project progresses and secondly it takes time to prepare updates and documentation that might be appealing for others to read and review. I’ve allocated some time to this, would love to dedicate more, but remain focussed on delivering the primary works as the key objective.
 
-In other news we have also over this time negotiated with the university to have Torrens register as an official Adelaide Fringe venue and we’ll be displaying our work as a window installation at Torrens as part of the 2017 Adelaide Fringe. 
+In other news we have also over this time negotiated with the university to have Torrens register as an official Adelaide Fringe venue and we’ll be displaying our work as a window installation at Torrens as part of the 2017 Adelaide Fringe.
 
 We are on track with the project plan and I’m also very aware there is still much to do.
 
@@ -125,5 +125,3 @@ We are on track with the project plan and I’m also very aware there is still m
 
 Hayes, R (2012) How to Make a Praxinoscope and Praxinoscope Discs Using a Repurposed Record Turntable
 Retreived 2 November from http://www.randommotion.com/html/prax2.html
-
-
