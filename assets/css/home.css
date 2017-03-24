@@ -272,7 +272,6 @@ and (min-width : 750px) {
   #coin{
     width: 35rem;
     height: 100%;
-    margin-top: -2rem;
     margin-left: -10rem;
   }
 /* Styles */
